@@ -18,16 +18,5 @@ A Project in Liferay Development
 - Powerpoint
 - Word
 
-## Result
 
-### Homepage
 
-![Picture1](https://github.com/j-escartin/Tripple-A-Website/assets/109270420/14a8850f-07f4-409e-893b-f1930446768f)
-
-### About Us Page
-
-![Picture2](https://github.com/j-escartin/Tripple-A-Website/assets/109270420/bcb2a4b9-85c9-4803-ab61-abd27f94a1c1)
-
-### Contact Us Page
-
-![Picture3](https://github.com/j-escartin/Tripple-A-Website/assets/109270420/f273bd2e-8a57-4823-927c-8c76e975aeea)
